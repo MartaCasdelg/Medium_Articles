@@ -2,7 +2,7 @@
 
 ![IMG](https://images.unsplash.com/photo-1540563647699-7ffbecbc1c37?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2067&q=80)
 
-In this repository you can find the [sample code](https://github.com/MartaCasdelg/Private_Medium_Articles/blob/main/1_Outliers_using_Python/Outlier_Analysis.ipynb) shown in the medium article 'How to find and deal with outliers using python', which you can read in the following links:
+In this repository you can find the [sample code](https://github.com/MartaCasdelg/Medium_Articles/blob/main/1_Outliers_using_Python/Outlier_Analysis.ipynb) shown in the medium article 'How to find and deal with outliers using python', which you can read in the following links:
 
 * Article in English [In process]
 * Article in Spanish [In process]
