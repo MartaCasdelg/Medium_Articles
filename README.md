@@ -5,6 +5,6 @@ This repository contains the files associated with the articles published in my 
 
 The list of articles to date is:
 
-| Article                                             | English version | Spanish version |
-|-----------------------------------------------------|-----------------|-----------------|
-| How to identify and deal with outliers using Python | [In process]    | [In process]    |
+| Article                                         | English version | Spanish version |
+|-------------------------------------------------|-----------------|-----------------|
+| How to identify and treat outliers using Python | [In process]    | [In process]    |
