@@ -4,8 +4,8 @@
 
 In this repository you can find the [sample code](https://github.com/MartaCasdelg/Medium_Articles/blob/main/1_Outliers_using_Python/Outlier_Analysis.ipynb) shown in the medium article 'How to find and deal with outliers using python', which you can read in the following links:
 
-* Article in English [In process]
-* Article in Spanish [In process]
+* Article in English: [Link](https://medium.com/@martacasdelg/how-to-identify-and-treat-outliers-using-python-779433addfe4)
+* Article in Spanish: [Link](https://medium.com/@martacasdelg/c%C3%B3mo-identificar-y-tratar-outliers-con-python-bf7dd530fc3)
 
 ## Feedback
 
