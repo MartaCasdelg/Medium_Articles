@@ -8,3 +8,4 @@ The list of articles to date is:
 | Article                                         | English version                                                                                          | Spanish version                                        |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | How to identify and treat outliers using Python | [Link](https://medium.com/@martacasdelg/how-to-identify-and-treat-outliers-using-python-779433addfe4)    | [Link](https://medium.com/@martacasdelg/c%C3%B3mo-identificar-y-tratar-outliers-con-python-bf7dd530fc3)    |
+| Import Excel files into PostgreSQL with Python | [Link]() | [Link]() |
