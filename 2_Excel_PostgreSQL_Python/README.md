@@ -4,8 +4,8 @@
 
 In this repository you can find the [sample code](https://github.com/MartaCasdelg/Private_Medium_Articles/blob/main/2_Excel_PostgreSQL_Python/Import_excel_to_postgreSQL.py) shown in the medium article 'Import Excel files into PostgreSQL with Python', which you can read in the following links:
 
-* Article in English
-* Article in Spanish
+* [Article in English](https://medium.com/@martacasdelg/importing-excel-into-a-postgresql-database-with-python-db02b75a90bc)
+* [Article in Spanish](https://medium.com/@martacasdelg/importar-excel-a-una-base-de-datos-en-postgresql-con-python-51ec48dafaa6)
 
 ## Feedback
 
